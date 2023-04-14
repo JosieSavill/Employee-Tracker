@@ -1,2 +1,1 @@
-mysql> -u root -p 
-password: root
+mysql -u root -p tracker_db > C:\Users\fiord\bootcamp\Employee-Tracker\db\schema.sql
